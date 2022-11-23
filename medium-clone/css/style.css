@@ -1,0 +1,74 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.logo-img{
+    max-width: 200px;
+}
+
+.navbar-nav  a {
+    color: #111 ;
+}
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+.text-black{
+    color: black;
+}
+.bg-dark{
+    background-color: #000;
+
+}
+
+.border-bottom-dark{
+    border-bottom: #111 solid 1px;
+}
+.border-top-dark{
+    border-bottom: #111 solid 1px;
+}
+.border-bottom-light{
+    border-bottom: solid 1px rgba(0,0,0,0.1);
+}
+.border-top-light{
+    border-bottom: solid 1px rgba(0,0,0,0.1);
+}
+.header-title{
+    font-size: 6rem;
+}
+.header-desc{
+    font-size: 2rem;
+    line-height: 1;
+}
+.header-btn{
+    font-size: 1.2rem;
+}
+.towards-img{
+    max-width: 25px;
+    max-height: 25px;
+}
+.article-img{
+    max-width: 200px;
+    max-height: 150px;
+}
+
+aside li{
+    margin-bottom: 12px;
+}
+
+.aside-footer ul{
+    margin: 0;
+    padding: 0;
+}
+.aside-footer ul li{
+    padding: 3px;
+}
+
+.aside-footer ul li a{
+    color: gray;
+}
